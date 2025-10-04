@@ -15,5 +15,11 @@ so basically the dataset that we provided gets converted into a 2D array due to 
 
 <img width="722" height="37" alt="image" src="https://github.com/user-attachments/assets/aed3e8c3-330a-45d6-a682-8e61053ba6bb" />
 
+
+example iteration over 4X8
+
+<img width="448" height="477" alt="image" src="https://github.com/user-attachments/assets/f37f8561-8c13-44e1-98ec-e8cadc526fff" />
+
+
                       
 
