@@ -1,2 +1,0 @@
-for eg. if I take a sentence "Cat is Cat" , then cat is used multiple times here but token embedding will provide the same vector 
-embedding but they are used at the different positions in the sentence. So , to overlook on this problem we use Positional embedding.
