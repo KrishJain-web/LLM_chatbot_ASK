@@ -39,7 +39,7 @@ def create_dataloader_v1(txt, batch_size=4, max_length=256,
 
 # Test
 print("PyTorch version:", torch.__version__)
-
+#dataloader for iteration
 dataloader = create_dataloader_v1(
     txt, batch_size=1, max_length=4, stride=1, shuffle=False
 )
@@ -47,3 +47,9 @@ dataloader = create_dataloader_v1(
 data_iter = iter(dataloader)
 first_batch = next(data_iter)
 print(first_batch)
+dataloader = create_dataloader_v1(raw_text, batch_size=8, max_length=4, stride=4, shuffle=False)
+
+data_iter = iter(dataloader)
+inputs, targets = next(data_iter)
+print("Inputs:\n", inputs)
+print("\nTargets:\n", targets)
