@@ -12,5 +12,8 @@ Parellel computing : When large data is divide into small parts for better compu
 Now using , pytorch(data loader) for large dataset and Tensor(here as a 2 dimensional array).
 so basically the dataset that we provided gets converted into a 2D array due to tensor and that helps to give the next word by just shifting the array one.
 **Working of input-target pairing helps us to give the next word from the dataset . It happens by completely tokenizing the dataset and storing it in a tensor 2d matrix and then shifting it by one such that it looks a new word has been generated .
+
+<img width="722" height="37" alt="image" src="https://github.com/user-attachments/assets/aed3e8c3-330a-45d6-a682-8e61053ba6bb" />
+
                       
 
