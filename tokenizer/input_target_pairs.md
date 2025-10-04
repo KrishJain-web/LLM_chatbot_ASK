@@ -1,7 +1,10 @@
 Unsupervised learning:In this machine learnong algorithm LLM doesn't knows about the output it only sees the input and find a perfect relation
                       between looking over the patterns.
 Input target pairs:
-                      <img width="381" height="40" alt="image" src="https://github.com/user-attachments/assets/0753e36a-d084-4161-9a7a-9474cc56e5bc" />
+
+  <img width="381" height="40" alt="image" src="https://github.com/user-attachments/assets/0753e36a-d084-4161-9a7a-9474cc56e5bc" />
+
+  not circled text is are the masks that are not seen by the LLM.
 
 
 Parellel computing : When large data is divide into small parts for better computing.
